@@ -1,0 +1,13 @@
+{
+  "name": "Nyra's Eyes",
+  "short_name": "Nyra",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#6f58a3",
+  "icons": [{
+    "src": "nyra_eye.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
